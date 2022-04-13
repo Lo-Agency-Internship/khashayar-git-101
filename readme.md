@@ -11,6 +11,8 @@ Bootcamp Assignment: Git Section
 | Merge |A git command that integrates the multiple lines of works(branches) to a single branch. |
 | Remote |The main repo which all the developers work on it and commit their work on it. |
 | Origin |The shorthand name of the repository that the project was cloned from. Its usage is to make referencing easier. |
+|  Up-stream |The location where all the works are uploaded(the original repo).|
+|  Down-stream |The process of integrating the work with others. |
 | Pull |A git command included by Fetch and Merge commands. This action downloads and apply the new changes on the local repository and updates the files to the new commits created by other users in the remote repository. |
 | Push |A git command that sends and uploads the commits and latest changes to the remote repository. |
 | Repository |A database that records all the changes occured on the files of a project in Git.|
