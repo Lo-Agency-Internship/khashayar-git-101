@@ -17,3 +17,6 @@ Bootcamp Assignment: Git Section
 | Push |A git command that sends and uploads the commits and latest changes to the remote repository. |
 | Repository |A database that records all the changes occured on the files of a project in Git.|
 | Stash |A git command that saves the uncommited changes into a stack for a later use and discards them by making a clean working place by matching the HEAD commit. |
+|clone|an action of copying an remote repository from git account to local directory. |
+|rebase|similar to merging for branches, but it will renew the node base in a way that will make it the same in the project line, in other words base will be changed to new state|
+|cherrypick|applying an specific commit from a specific branch to local repository|
